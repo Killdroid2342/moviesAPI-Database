@@ -1,1 +1,4 @@
 node_modules
+
+app/* linguist-documentation=false
+app/* linguist-vendored
